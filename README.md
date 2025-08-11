@@ -72,5 +72,3 @@ truffle test
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 💡 *Built for secure, transparent, and democratic decision-making in the Web3 era.*
-Do you want me to make that enhanced version with visuals?
-```
