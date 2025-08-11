@@ -23,7 +23,7 @@ This application ensures that every vote is recorded on-chain, verifiable by any
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/volta-voting-dapp.git](https://github.com/SutheerthN/Volta-Blockchain-Decentalized-Voting-Application.git)
+   git clone https://github.com/SutheerthN/Volta-Blockchain-Decentalized-Voting-Application.git
    cd volta-voting-dapp
 
 2. **Install dependencies**
