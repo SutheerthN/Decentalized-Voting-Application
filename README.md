@@ -3,7 +3,7 @@
 A secure, transparent, and tamper-proof decentralized voting system built on **Volta Blockchain**.  
 This application ensures that every vote is recorded on-chain, verifiable by anyone, and resistant to manipulation.
 
-## 🚀 Features
+## Features
 
 - **Blockchain-Backed Security** – Every vote is stored on the immutable Volta blockchain.
 - **Transparency** – Voting data can be publicly verified.
