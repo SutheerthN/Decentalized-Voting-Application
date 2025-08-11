@@ -25,7 +25,6 @@ This application ensures that every vote is recorded on-chain, verifiable by any
    ```bash
    git clone https://github.com/your-username/volta-voting-dapp.git
    cd volta-voting-dapp
-``'
 
 2. **Install dependencies**
 
